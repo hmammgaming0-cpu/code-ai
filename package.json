@@ -1,0 +1,15 @@
+{
+  "name": "code-ai-play",
+  "version": "1.0.0",
+  "description": "Code AI Android app for Google Play",
+  "scripts": {
+    "build": "echo Web files are already in www"
+  },
+  "dependencies": {
+    "@capacitor/core": "^7.4.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.4.0",
+    "@capacitor/android": "^7.4.0"
+  }
+}
